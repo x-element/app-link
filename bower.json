@@ -1,0 +1,6 @@
+{
+  "name": "app-link",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  }
+}
